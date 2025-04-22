@@ -1,1 +1,3 @@
 # 09_customer-support-case_202401100300029
+Customer Support Case Type Classification Project
+Overview: Customer support centers receive a variety of cases from customers, ranging from technical issues and billing inquiries to general queries. Efficiently classifying these cases is essential for ensuring that support teams can quickly respond and resolve issues, leading to improved customer satisfaction and streamlined support processes. This project focuses on building an automated system that can classify customer support cases based on certain features such as the message length and the response time of the support team. The goal is to develop a model that can automatically categorize cases into distinct types to expedite case handling.
